@@ -1,0 +1,5 @@
+build/
+*.pyd
+*.egg-info/
+__pycache__/
+face3d/mesh/cython/mesh_core_cython.cpp
